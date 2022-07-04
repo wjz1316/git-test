@@ -9,3 +9,4 @@ hello git!
 hello git!
 hello git!
 push test
+ssh push test
